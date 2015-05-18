@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Foursquare API</string>
+    <string name="search_hint">Search location</string>
+</resources>
